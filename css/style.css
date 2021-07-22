@@ -1272,4 +1272,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   #mobile-nav-toggle {
     display: inline;
   }
+  
+  html, body {
+    position:relative;
+    overflow-x:hidden;
+  }
 }
